@@ -1,0 +1,6 @@
+python
+javascript
+SMALTALK is an excellant oope dev language 
+ linux
+Golang
+Kotlin
